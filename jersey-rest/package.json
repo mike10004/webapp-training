@@ -1,0 +1,12 @@
+{
+  "name": "ngrok-testing-webapp",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Webapp using Jersey",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Chaberski",
+  "devDependencies": {
+  }
+}
